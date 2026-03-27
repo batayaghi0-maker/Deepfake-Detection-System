@@ -1,0 +1,5 @@
+{
+  "name": "DeepGuard - Deepfake Detection System",
+  "description": "نظام متقدم لكشف التزييف العميق (Deepfake) لحماية الهوية الرقمية باستخدام الذكاء الاصطناعي.",
+  "requestFramePermissions": []
+}
